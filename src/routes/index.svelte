@@ -1,8 +1,8 @@
 	<svelte:head>
-			<title> MonPetitSaucisson.com - Boutique de saucisson</title>
+			<title> MonPetitSaucisson.com</title>
 	</svelte:head>	
 	<body>
-		<h1>MonPetitSaucisson.com</h1>
+		<h1>MonPetitSaucisson.com - Boutique de saucisson</h1>
 		<p>De bonnes victuailles pour de bonnes personnes !</p>
 		<nav>
 			<ul>
